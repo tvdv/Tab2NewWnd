@@ -2,6 +2,7 @@
   "name": "Move tab to new window",
   "version": "0.1.0.0",
   "description": "Move the current tab into a new window",
+  "short_name":"TabToNewWnd",
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
